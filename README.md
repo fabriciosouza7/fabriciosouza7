@@ -1,7 +1,7 @@
 - 🌱 I’m currently learning to C#
 - 📫 How to reach me: fabriciosouza7@live.com
 
-### Oi eu sou o Fabricio Souza 👋, estutande de programação e tecnologia!
+### Oi eu sou o Fabricio Souza 👋, estudande de programação e tecnologia!
 <div align="center">
   <a href="https://github.com/fabriciosouza7">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabriciosouza7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
